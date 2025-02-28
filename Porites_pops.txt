@@ -1,0 +1,270 @@
+"ind" "pop" "Latitude" "Longitude"
+"1" "106.bam" "Marquesas Rock" 24.45597 -82.23144
+"2" "110.bam" "Marquesas Rock" 24.45597 -82.23144
+"3" "11.bam" "Rebecca Shoals" 24.57434 -82.59091
+"4" "123.bam" "Ellis Rock" 24.64589 -82.19049
+"5" "124.bam" "Ellis Rock" 24.64589 -82.19049
+"6" "125.bam" "Ellis Rock" 24.64589 -82.19049
+"7" "12.bam" "Rebecca Shoals" 24.57434 -82.59091
+"8" "13.bam" "Rebecca Shoals" 24.57434 -82.59091
+"9" "141.bam" "Smith Shoal" 24.7159 -81.92645
+"10" "143.bam" "Smith Shoal" 24.7159 -81.92645
+"11" "144.bam" "Smith Shoal" 24.7159 -81.92645
+"12" "145.bam" "Smith Shoal" 24.7159 -81.92645
+"13" "147.bam" "Lowe Shoal" 24.70507 -81.9828
+"14" "148.bam" "Lowe Shoal" 24.70507 -81.9828
+"15" "14.bam" "Rebecca Shoals" 24.57434 -82.59091
+"16" "150.bam" "Lowe Shoal" 24.70507 -81.9828
+"17" "151.bam" "Satan Shoal" 24.45989 -81.98913
+"18" "153.bam" "Satan Shoal" 24.45989 -81.98913
+"19" "155.bam" "Satan Shoal" 24.45989 -81.98913
+"20" "15.bam" "Rebecca Shoals" 24.57434 -82.59091
+"21" "161.bam" "Middle Ground" 24.47577 -81.89539
+"22" "162.bam" "Middle Ground" 24.47577 -81.89539
+"23" "163.bam" "Middle Ground" 24.47577 -81.89539
+"24" "164.bam" "Middle Ground" 24.47577 -81.89539
+"25" "165.bam" "Middle Ground" 24.47577 -81.89539
+"26" "180.bam" "Key West Inshore" 24.53626 -81.77518
+"27" "181.bam" "Key West Inshore" 24.53626 -81.77518
+"28" "182.bam" "Key West Inshore" 24.53626 -81.77518
+"29" "183.bam" "Key West Inshore" 24.53626 -81.77518
+"30" "184.bam" "Key West Inshore" 24.53626 -81.77518
+"31" "206.bam" "Eastern Dry Rocks" 24.45692 -81.84791
+"32" "207.bam" "Eastern Dry Rocks" 24.45692 -81.84791
+"33" "208.bam" "Eastern Dry Rocks" 24.45692 -81.84791
+"34" "209.bam" "Eastern Dry Rocks" 24.45692 -81.84791
+"35" "210.bam" "Eastern Dry Rocks" 24.45692 -81.84791
+"36" "21.bam" "DT.Pinnacle" 24.67583 -83.04236
+"37" "231.bam" "W Sambo Deep" 24.47269 -81.73489
+"38" "233.bam" "W Sambo Deep" 24.47269 -81.73489
+"39" "234.bam" "W Sambo Deep" 24.47269 -81.73489
+"40" "235.bam" "W Sambo Deep" 24.47269 -81.73489
+"41" "236.bam" "W Sambo Shallow" 24.47551 -81.73554
+"42" "238.bam" "W Sambo Shallow" 24.47551 -81.73554
+"43" "240.bam" "W Sambo Shallow" 24.47551 -81.73554
+"44" "261.bam" "Middle Sambo" 24.48838 -81.67699
+"45" "263.bam" "Middle Sambo" 24.48838 -81.67699
+"46" "267.bam" "Boca Chica Inshore" 24.56089 -81.66456
+"47" "268.bam" "Boca Chica Inshore" 24.56089 -81.66456
+"48" "269.bam" "Boca Chica Inshore" 24.56089 -81.66456
+"49" "274.bam" "Boca Chica Inshore" 24.56089 -81.66456
+"50" "281.bam" "Pelican Patch" 24.5292 -81.64182
+"51" "282.bam" "Pelican Patch" 24.5292 -81.64182
+"52" "283.bam" "Pelican Patch" 24.5292 -81.64182
+"53" "284.bam" "Pelican Patch" 24.5292 -81.64182
+"54" "285.bam" "Pelican Patch" 24.5292 -81.64182
+"55" "291.bam" "Pelican Shoal" 24.50023 -81.6292
+"56" "292.bam" "Pelican Shoal" 24.50023 -81.6292
+"57" "293.bam" "Pelican Shoal" 24.50023 -81.6292
+"58" "294.bam" "Pelican Shoal" 24.50023 -81.6292
+"59" "295.bam" "Pelican Shoal" 24.50023 -81.6292
+"60" "301.bam" "Maryland Shoal" 24.50767 -81.57307
+"61" "302.bam" "Maryland Shoal" 24.50767 -81.57307
+"62" "304.bam" "Maryland Shoal" 24.50767 -81.57307
+"63" "305.bam" "Maryland Shoal" 24.50767 -81.57307
+"64" "307.bam" "Jaap Reef" 24.5843 -81.58356
+"65" "308.bam" "Jaap Reef" 24.5843 -81.58356
+"66" "31.bam" "DT.1" 24.7098 -82.8026
+"67" "321.bam" "W Washerwoman" 24.546 -81.59489
+"68" "323.bam" "W Washerwoman" 24.546 -81.59489
+"69" "326.bam" "Jaap Reef" 24.5843 -81.58356
+"70" "327.bam" "Jaap Reef" 24.5843 -81.58356
+"71" "328.bam" "Jaap Reef" 24.5843 -81.58356
+"72" "32.bam" "DT.1" 24.7098 -82.8026
+"73" "330.bam" "Jaap Reef" 24.5843 -81.58356
+"74" "331.bam" "American Shoal" 24.51982 -81.52343
+"75" "333.bam" "American Shoal" 24.51982 -81.52343
+"76" "335.bam" "American Shoal" 24.51982 -81.52343
+"77" "336.bam" "Looe Key Deep" 24.54446 -81.40741
+"78" "338.bam" "Looe Key Deep" 24.54446 -81.40741
+"79" "339.bam" "Looe Key Deep" 24.54446 -81.40741
+"80" "340.bam" "Looe Key Deep" 24.54446 -81.40741
+"81" "34.bam" "DT.1" 24.7098 -82.8026
+"82" "354.bam" "American Shoal" 24.51982 -81.52343
+"83" "355.bam" "American Shoal" 24.51982 -81.52343
+"84" "35.bam" "DT.1" 24.7098 -82.8026
+"85" "361.bam" "Looe Key Shallow" 24.5454 -81.40776
+"86" "362.bam" "Looe Key Shallow" 24.5454 -81.40776
+"87" "363.bam" "Looe Key Shallow" 24.5454 -81.40776
+"88" "364.bam" "Looe Key Shallow" 24.5454 -81.40776
+"89" "365.bam" "Looe Key Shallow" 24.5454 -81.40776
+"90" "36.bam" "DT.1 (Shallow)" 24.70151 -82.80442
+"91" "37.bam" "DT.1 (Shallow)" 24.70151 -82.80442
+"92" "386.bam" "Newfound Harbor Key" 24.61209 -81.39974
+"93" "388.bam" "Newfound Harbor Key" 24.61209 -81.39974
+"94" "389.bam" "Newfound Harbor Key" 24.61209 -81.39974
+"95" "38.bam" "DT.1 (Shallow)" 24.70151 -82.80442
+"96" "390.bam" "Newfound Harbor Key" 24.61209 -81.39974
+"97" "391.bam" "Newfound Harbor Key" 24.61209 -81.39974
+"98" "392.bam" "Newfound Harbor Key" 24.61209 -81.39974
+"99" "393.bam" "Newfound Harbor Key" 24.61209 -81.39974
+"100" "398.bam" "Sombrero Key" 24.69467 -81.11673
+"101" "39.bam" "DT.1 (Shallow)" 24.70151 -82.80442
+"102" "400.bam" "Coffin Patch" 24.68192 -80.96992
+"103" "401.bam" "Coffin Patch" 24.68192 -80.96992
+"104" "402.bam" "Coffin Patch" 24.68192 -80.96992
+"105" "404.bam" "Coffin Patch" 24.68192 -80.96992
+"106" "406.bam" "Sombrero Key" 24.69467 -81.11673
+"107" "407.bam" "Sombrero Key" 24.69467 -81.11673
+"108" "40.bam" "DT.1 (Shallow)" 24.70151 -82.80442
+"109" "41.bam" "Hospital Key" 24.64145 -82.86051
+"110" "420.bam" "Tennessee Deep" 24.75395 -80.75471
+"111" "422.bam" "Tennessee Deep" 24.75395 -80.75471
+"112" "424.bam" "Tennessee Deep" 24.75395 -80.75471
+"113" "42.bam" "Hospital Key" 24.64145 -82.86051
+"114" "430.bam" "Alligator Shallow" 24.84414 -80.62744
+"115" "431.bam" "Alligator Shallow" 24.84414 -80.62744
+"116" "432.bam" "Alligator Shallow" 24.84414 -80.62744
+"117" "434.bam" "Alligator Shallow" 24.84414 -80.62744
+"118" "436.bam" "Tennessee Shallow" 24.76401 -80.75841
+"119" "437.bam" "Tennessee Shallow" 24.76401 -80.75841
+"120" "438.bam" "Tennessee Shallow" 24.76401 -80.75841
+"121" "439.bam" "Tennessee Shallow" 24.76401 -80.75841
+"122" "43.bam" "Hospital Key" 24.64145 -82.86051
+"123" "440.bam" "Tennessee Shallow" 24.76401 -80.75841
+"124" "441.bam" "Alligator Deep" 24.83974 -80.62613
+"125" "442.bam" "Alligator Deep" 24.83974 -80.62613
+"126" "443.bam" "Alligator Deep" 24.83974 -80.62613
+"127" "444.bam" "Alligator Deep" 24.83974 -80.62613
+"128" "44.bam" "Hospital Key" 24.64145 -82.86051
+"129" "451.bam" "Cheeca Rocks" 24.90066 -80.62305
+"130" "452.bam" "Cheeca Rocks" 24.90066 -80.62305
+"131" "453.bam" "Cheeca Rocks" 24.90066 -80.62305
+"132" "454.bam" "Cheeca Rocks" 24.90066 -80.62305
+"133" "455.bam" "Cheeca Rocks" 24.90066 -80.62305
+"134" "45.bam" "Hospital Key" 24.64145 -82.86051
+"135" "466.bam" "Runway Deep" 24.88458 -80.55431
+"136" "468.bam" "Runway Deep" 24.88458 -80.55431
+"137" "469.bam" "Runway Deep" 24.88458 -80.55431
+"138" "470.bam" "Runway Deep" 24.88458 -80.55431
+"139" "471.bam" "The Rocks" 24.94831 -80.5541
+"140" "472.bam" "The Rocks" 24.94831 -80.5541
+"141" "473.bam" "The Rocks" 24.94831 -80.5541
+"142" "474.bam" "The Rocks" 24.94831 -80.5541
+"143" "492.bam" "Hens and Chickens" 24.93435 -80.55316
+"144" "493.bam" "Hens and Chickens" 24.93435 -80.55316
+"145" "494.bam" "Hens and Chickens" 24.93435 -80.55316
+"146" "500.bam" "Davis Deep" 24.91849 -80.50827
+"147" "502.bam" "Davis Deep" 24.91849 -80.50827
+"148" "503.bam" "Davis Deep" 24.91849 -80.50827
+"149" "515_1.bam" "Pickles Reef" 24.97854 -80.42764
+"150" "515.bam" "Conch Reef" 24.94411 -80.46118
+"151" "517_1.bam" "Pickles Reef" 24.97854 -80.42764
+"152" "517.bam" "Conch Reef" 24.94411 -80.46118
+"153" "518_1.bam" "Pickles Reef" 24.97854 -80.42764
+"154" "518.bam" "Conch Reef" 24.94411 -80.46118
+"155" "519.bam" "Conch Reef" 24.94411 -80.46118
+"156" "530.bam" "Molasses Deep" 25.00401 -80.38106
+"157" "531.bam" "Molasses Deep" 25.00401 -80.38106
+"158" "532.bam" "Molasses Deep" 25.00401 -80.38106
+"159" "540.bam" "Molasses Shallow" 25.00609 -80.38197
+"160" "541.bam" "Molasses Shallow" 25.00609 -80.38197
+"161" "543.bam" "Molasses Shallow" 25.00609 -80.38197
+"162" "544.bam" "Molasses Shallow" 25.00609 -80.38197
+"163" "546.bam" "Triangles" 25.00864 -80.43298
+"164" "547.bam" "Triangles" 25.00864 -80.43298
+"165" "548.bam" "Triangles" 25.00864 -80.43298
+"166" "549.bam" "Triangles" 25.00864 -80.43298
+"167" "555.bam" "White Bank Rocks" 25.03575 -80.37904
+"168" "557.bam" "White Bank Rocks" 25.03575 -80.37904
+"169" "558.bam" "White Bank Rocks" 25.03575 -80.37904
+"170" "559.bam" "White Bank Rocks" 25.03575 -80.37904
+"171" "55.bam" "DT.Pinnacle" 24.67583 -83.04236
+"172" "565.bam" "Mosquito Bank" 25.07595 -80.39043
+"173" "566.bam" "Mosquito Bank" 25.07595 -80.39043
+"174" "567.bam" "Mosquito Bank" 25.07595 -80.39043
+"175" "568.bam" "Mosquito Bank" 25.07595 -80.39043
+"176" "569.bam" "Mosquito Bank" 25.07595 -80.39043
+"177" "56.bam" "DT.Pinnacle" 24.67583 -83.04236
+"178" "57.bam" "DT.Pinnacle" 24.67583 -83.04236
+"179" "581.bam" "SS Benwood" 25.04961 -80.33807
+"180" "582.bam" "SS Benwood" 25.04961 -80.33807
+"181" "583.bam" "SS Benwood" 25.04961 -80.33807
+"182" "584.bam" "SS Benwood" 25.04961 -80.33807
+"183" "58.bam" "DT.Pinnacle" 24.67583 -83.04236
+"184" "595.bam" "Cannon Patch" 25.10867 -80.34782
+"185" "596.bam" "Cannon Patch" 25.10867 -80.34782
+"186" "597.bam" "Cannon Patch" 25.10867 -80.34782
+"187" "598.bam" "Cannon Patch" 25.10867 -80.34782
+"188" "599.bam" "Cannon Patch" 25.10867 -80.34782
+"189" "59.bam" "DT.Pinnacle" 24.67583 -83.04236
+"190" "600.bam" "Grecian Rocks" 25.10957 -80.30583
+"191" "601.bam" "Grecian Rocks" 25.10957 -80.30583
+"192" "603.bam" "Grecian Rocks" 25.10957 -80.30583
+"193" "604.bam" "Grecian Rocks" 25.10957 -80.30583
+"194" "609.bam" "Higdons Reef" 25.13801 -80.31858
+"195" "615.bam" "Elbow Deep" 25.14278 -80.25759
+"196" "616.bam" "Elbow Deep" 25.14278 -80.25759
+"197" "617.bam" "Elbow Deep" 25.14278 -80.25759
+"198" "618.bam" "Elbow Deep" 25.14278 -80.25759
+"199" "619.bam" "Elbow Deep" 25.14278 -80.25759
+"200" "620.bam" "Higdons Reef" 25.13801 -80.31858
+"201" "621.bam" "Higdons Reef" 25.13801 -80.31858
+"202" "622.bam" "Higdons Reef" 25.13801 -80.31858
+"203" "623.bam" "Higdons Reef" 25.13801 -80.31858
+"204" "624.bam" "Higdons Reef" 25.13801 -80.31858
+"205" "630.bam" "Elbow Shallow" 25.14314 -80.26177
+"206" "632.bam" "Elbow Shallow" 25.14314 -80.26177
+"207" "633.bam" "Elbow Shallow" 25.14314 -80.26177
+"208" "634.bam" "Elbow Shallow" 25.14314 -80.26177
+"209" "645.bam" "Carysfort Shallow" 25.21649 -80.21662
+"210" "646.bam" "Carysfort Shallow" 25.21649 -80.21662
+"211" "648.bam" "Carysfort Shallow" 25.21649 -80.21662
+"212" "649.bam" "Carysfort Shallow" 25.21649 -80.21662
+"213" "650.bam" "Carysfort Deep" 25.2143 -80.21115
+"214" "651.bam" "Carysfort Deep" 25.2143 -80.21115
+"215" "652.bam" "Carysfort Deep" 25.2143 -80.21115
+"216" "653.bam" "Carysfort Deep" 25.2143 -80.21115
+"217" "666.bam" "Turtle Shell Grounds" 25.27644 -80.1785
+"218" "667.bam" "Turtle Shell Grounds" 25.27644 -80.1785
+"219" "668.bam" "Turtle Shell Grounds" 25.27644 -80.1785
+"220" "670.bam" "Turtle Shell Grounds" 25.27644 -80.1785
+"221" "676.bam" "Turtle Harbor" 25.28802 -80.23137
+"222" "677.bam" "Turtle Harbor" 25.28802 -80.23137
+"223" "678.bam" "Turtle Harbor" 25.28802 -80.23137
+"224" "679.bam" "Turtle Harbor" 25.28802 -80.23137
+"225" "680.bam" "Turtle Harbor" 25.28802 -80.23137
+"226" "686.bam" "Basin Hill Shoals" 25.212001 -80.281
+"227" "687.bam" "Basin Hill Shoals" 25.212001 -80.281
+"228" "688.bam" "Basin Hill Shoals" 25.212001 -80.281
+"229" "689.bam" "Basin Hill Shoals" 25.212001 -80.281
+"230" "690.bam" "Basin Hill Shoals" 25.212001 -80.281
+"231" "691.bam" "Elkhorn Reef (Old Rhodes 2)" 25.33511 -80.17372
+"232" "692.bam" "Elkhorn Reef (Old Rhodes 2)" 25.33511 -80.17372
+"233" "693.bam" "Elkhorn Reef (Old Rhodes 2)" 25.33511 -80.17372
+"234" "694.bam" "Elkhorn Reef (Old Rhodes 2)" 25.33511 -80.17372
+"235" "701.bam" "Ajax Deep" 25.39609 -80.13425
+"236" "704.bam" "Ajax Deep" 25.39609 -80.13425
+"237" "705.bam" "Ajax Deep" 25.39609 -80.13425
+"238" "711.bam" "Ajax Shallow" 25.40838 -80.1332
+"239" "714.bam" "Ajax Shallow" 25.40838 -80.1332
+"240" "715.bam" "Ajax Shallow" 25.40838 -80.1332
+"241" "721.bam" "Elliott Key" 25.44076 -80.1826
+"242" "722.bam" "Elliott Key" 25.44076 -80.1826
+"243" "723.bam" "Elliott Key" 25.44076 -80.1826
+"244" "724.bam" "Elliott Key" 25.44076 -80.1826
+"245" "725.bam" "Elliott Key" 25.44076 -80.1826
+"246" "731.bam" "Bache Shoals" 25.48217 -80.15347
+"247" "732.bam" "Bache Shoals" 25.48217 -80.15347
+"248" "733.bam" "Bache Shoals" 25.48217 -80.15347
+"249" "734.bam" "Bache Shoals" 25.48217 -80.15347
+"250" "735.bam" "Bache Shoals" 25.48217 -80.15347
+"251" "741.bam" "Triumph Reef" 25.4805 -80.1177
+"252" "742.bam" "Triumph Reef" 25.4805 -80.1177
+"253" "743.bam" "Triumph Reef" 25.4805 -80.1177
+"254" "744.bam" "Triumph Reef" 25.4805 -80.1177
+"255" "745.bam" "Triumph Reef" 25.4805 -80.1177
+"256" "756.bam" "Fowey Rocks" 25.58826 -80.10108
+"257" "757.bam" "Fowey Rocks" 25.58826 -80.10108
+"258" "758.bam" "Fowey Rocks" 25.58826 -80.10108
+"259" "759.bam" "Fowey Rocks" 25.58826 -80.10108
+"260" "760.bam" "Fowey Rocks" 25.58826 -80.10108
+"261" "81.bam" "DT.2" 24.63159 -82.80322
+"262" "82.bam" "DT.2" 24.63159 -82.80322
+"263" "83.bam" "DT.2" 24.63159 -82.80322
+"264" "84.bam" "DT.2" 24.63159 -82.80322
+"265" "85.bam" "DT.2" 24.63159 -82.80322
+"266" "91.bam" "New Grounds Shoal" 24.66314 -82.44994
+"267" "93.bam" "New Grounds Shoal" 24.66314 -82.44994
+"268" "94.bam" "New Grounds Shoal" 24.66314 -82.44994
+"269" "95.bam" "New Grounds Shoal" 24.66314 -82.44994
