@@ -6,7 +6,9 @@ Scipts and data to accompany paper:\
 - **Agaricia_nozoox.ibsMat**: matrix of genetic distances for *A. agaricites* (identity-by-state), computed from *de novo* 2b-RAD data by ANGSD.
 - **Agaricia_env_feb2025.RData**: Metadata for *A. agaricites*: environmental data (interpolateed from SERC and ERDDAP) and lon, lat of each sample.
 - **Agaricia_admix.csv**: by-lineage admixture proportions
-- **Porites_nozoox.ibsMat**: matrix of genetic distances for *A. agaricites* (identity-by-state), computed from *de novo* 2b-RAD data by ANGSD.
-- **Porites_env_feb2025.RData**: Metadata for *A. agaricites*: environmental data (interpolateed from SERC and ERDDAP) and lon, lat of each sample.
+- **Porites_nozoox.ibsMat**: matrix of genetic distances for *P.astreoides* (identity-by-state), computed from *de novo* 2b-RAD data by ANGSD.
+- **Porites_env_feb2025.RData**: Metadata for *P.astreoides*: environmental data (interpolateed from SERC and ERDDAP) and lon, lat of each sample.
 - **Porites_admix.csv**: by-lineage admixture proportions
+- **SERC_krigs_bottom_prepost_5k.RData**: environmental data for 5km raster of Florida Keys Reef Tract, for past envirionment ("pre") and current environment ("post")
+- 
 
